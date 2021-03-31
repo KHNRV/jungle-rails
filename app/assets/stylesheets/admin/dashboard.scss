@@ -1,0 +1,14 @@
+main section.admin-dashboard-show {
+  .dashboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    .panel {
+      .panel-body {
+        text-align: center;
+        font-weight: bolder;
+      }
+    }
+  }
+}

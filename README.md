@@ -1,3 +1,5 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <br />
 <p align="center">
   <a href="https://github.com/KHNRV/jungle-rails">
@@ -36,10 +38,33 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./docs/images/home.png)
+![home](./docs/images/home.png)
+
 
 
 ### Implemented Features
+
+- Sold Out Badge
+
+  ![sold-out](./docs/images/sold-out.png)
+
+- Admin Categories
+
+  ![admin_categories](./docs/images/admin_categories.png)
+
+- User Authentication
+
+  ![login](./docs/images/login.png)
+
+- Order Details Page
+
+  ![order](./docs/images/order.png)
+
+- Empty Cart Template
+
+  ![empty_cart](./docs/images/empty_cart.png)
+
+- Admin Authentication
 
 
 ### Built With
@@ -74,7 +99,7 @@ You should have Rails 4.2 and Ruby 2.6.6 installed and loaded on your machine
 8. Put Stripe (test) keys into appropriate .env vars
 9. Run `bin/rails s -b 0.0.0.0` to start the server
 
-### Stipe Testing
+### Stripe Testing
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
@@ -98,4 +123,4 @@ Project Link: [https://github.com/KHNRV/jungle-rails](https://github.com/KHNRV/j
 [license-shield]: https://img.shields.io/github/license/KHNRV/repo.svg?style=for-the-badge
 [license-url]: https://github.com/KHNRV/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/KHNRV
+[linkedin-url]: https://linkedin.com/in/kevinnicolasr

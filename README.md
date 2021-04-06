@@ -40,30 +40,15 @@
 
 ![home](./docs/images/home.png)
 
-
+Jungle is a mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. I completed is this project within the context of the Web Development Bootcamp at Lighthouse Labs. The goal was to simulate a real-world experience where we inherited an existing code base using a language and a framework that we were not comfortable with.
 
 ### Implemented Features
 
-- Sold Out Badge
-
-  ![sold-out](./docs/images/sold-out.png)
-
-- Admin Categories
-
-  ![admin_categories](./docs/images/admin_categories.png)
-
-- User Authentication
-
-  ![login](./docs/images/login.png)
-
-- Order Details Page
-
-  ![order](./docs/images/order.png)
-
-- Empty Cart Template
-
-  ![empty_cart](./docs/images/empty_cart.png)
-
+- [Sold Out Badge](./docs/images/sold-out.png)
+- [Admin Categories](./docs/images/admin_categories.png)
+- [User Authentication](./docs/images/login.png)
+- [Order Details Page](./docs/images/order.png)
+- [Empty Cart Template](./docs/images/empty_cart.png)
 - Admin Authentication
 
 
